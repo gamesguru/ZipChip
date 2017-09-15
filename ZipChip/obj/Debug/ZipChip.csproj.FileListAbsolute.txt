@@ -1,0 +1,9 @@
+c:\users\shane_dev\documents\visual studio 2015\Projects\ZipChip\ZipChip\bin\Debug\ZipChip.exe.config
+C:\Users\Shane_Dev\documents\visual studio 2015\Projects\ZipChip\ZipChip\bin\Debug\ZipChip.exe
+C:\Users\Shane_Dev\documents\visual studio 2015\Projects\ZipChip\ZipChip\bin\Debug\ZipChip.pdb
+C:\Users\Shane_Dev\documents\visual studio 2015\Projects\ZipChip\ZipChip\obj\Debug\ZipChip.csprojResolveAssemblyReference.cache
+C:\Users\Shane_Dev\documents\visual studio 2015\Projects\ZipChip\ZipChip\obj\Debug\ZipChip.frmMain.resources
+C:\Users\Shane_Dev\documents\visual studio 2015\Projects\ZipChip\ZipChip\obj\Debug\ZipChip.Properties.Resources.resources
+C:\Users\Shane_Dev\documents\visual studio 2015\Projects\ZipChip\ZipChip\obj\Debug\ZipChip.csproj.GenerateResource.Cache
+C:\Users\Shane_Dev\documents\visual studio 2015\Projects\ZipChip\ZipChip\obj\Debug\ZipChip.exe
+C:\Users\Shane_Dev\documents\visual studio 2015\Projects\ZipChip\ZipChip\obj\Debug\ZipChip.pdb
